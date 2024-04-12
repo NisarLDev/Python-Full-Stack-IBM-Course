@@ -32,3 +32,13 @@
     -o-border-radius: 10px;
 
 }
+#imagen1{
+	margin-left: 100px;
+}
+
+.imagen:hover{
+	transform: scale(1.2);
+}
+p.blue{
+	color:blue; 
+	margin-right:20px; } 
