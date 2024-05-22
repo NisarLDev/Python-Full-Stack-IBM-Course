@@ -35,7 +35,8 @@ while True:
         case _:
 			print("Esta opción no es válida. Inténtelo de nuevo.")
             break
-	class Tareas:
+	# Clase creada Gestion_Tareas para la parte del modelo del Modelo Vista Controlador (MVC). Para CRUD.
+	class Gestion_Tareas:
 		# Lista de tareas
 		tareas = []
 
