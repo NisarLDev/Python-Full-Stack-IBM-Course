@@ -62,4 +62,4 @@ https://j2logo.com/python/tutorial/programacion-orientada-a-objetos/
 Guía para Principiantes de la Programación Orientada a Objetos (POO) en Python
 https://kinsta.com/es/blog/programacion-orientada-objetos-python/
 
-
+https://j2logo.com/python/tutorial/programacion-orientada-a-objetos/
