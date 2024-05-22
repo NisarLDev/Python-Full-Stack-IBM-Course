@@ -1,12 +1,40 @@
+import Gestionar_Tareas
+
+# Bucle principal
+while True:
+    print("\n***** --- Gestor de tareas Python Full Stack Proyecto Final IBM 2024 --- ******\n ")
+    print("1. Añadir tarea")
+    print("2. Ver tareas")
+    print("3. Marcar tarea como completada")
+    print("4. Eliminar tarea")
+    print("5. Salir")
+
+    print("\n")
+
+     #Entrada de opcion para el usuario
+    opcion = int(input("\nIngresar opcion: "))
+
+    #Menu de opciones
+    if opcion == 1:
+        Gestion_Tareas.añadir_tareas(Gestion_Tareas.tareas)
+    elif opcion == 2:
+        Gestion_Tareas.ver_tareas(Gestion_Tareas.tareas)
+    elif opcion == 3:
+        Gestion_Tareas.marcar_completada(Gestion_Tareas.tareas)
+    elif opcion == 4:
+        Gestion_Tareas.eliminar_tarea(Gestion_Tareas.tareas)
+    elif opcion == 5:
+        break
+
+
 # Clase creada Gestion_Tareas para la parte del modelo del Modelo Vista Controlador (MVC). Para CRUD.
 class Gestion_Tareas():
-	    def __init__(self, agregar_tarea, ver_tareas):
 		# Lista de tareas
 		tareas = []
 
 		# Funciones del programa
-		#agregar_tarea = Gestion_Tareas()
-		def agregar_tarea(lista):
+		
+class agregar_tarea(Gestion_Tareas, list):
 			# Entrada para la tarea
 			tarea = input("Introduzca la descripción de la tarea: ")
 
@@ -22,12 +50,12 @@ class Gestion_Tareas():
 			print(f"{tarea}")
 
 			# Informa del número de tarea
-			print(f"La tarea se almacenó en la posición {len(lista)}\n")
+			print(f"La tarea se almacenó en la posición {len(list)}\n")
 
-		def ver_tareas(list):
+class ver_tareas(Gestion_Tareas, list):
 			# Condicional que evalúe si algo está en la lista
 			# Si hay algo en la lista se presenta
-			if lista:
+			if list:
 				for indice, tarea in enumerate(list):
 					print(f"{indice + 1}. {tarea}")
 			# Si la lista está vacía avisa de ello
@@ -37,7 +65,7 @@ class Gestion_Tareas():
 			# Mensaje del final del listado
 			print("--- FIN DEL LISTADO DE TAREAS ---")
 
-		def tarea_completada(lista):
+class tarea_completada(Gestion_Tareas,list):
 			# Llamamos a la función ver_tareas()
 			ver_tareas(list)
 
@@ -79,31 +107,3 @@ def eliminar_tarea(lista):
 		# Si la lista está vacía se avisa de ello
 	else:
 		print("No hay tareas.")
-
-
-
-# Bucle principal
-while True:
-    print("\n***** --- Gestor de tareas Python Full Stack Proyecto Final IBM 2024 --- ******\n ")
-    print("1. Añadir tarea")
-    print("2. Ver tareas")
-    print("3. Marcar tarea como completada")
-    print("4. Eliminar tarea")
-    print("5. Salir")
-
-    print("\n")
-
-     #Entrada de opcion para el usuario
-    opcion = int(input("\nIngresar opcion: "))
-
-    #Menu de opciones
-    if opcion == 1:
-        Gestion_Tareas.añadir_tareas(Gestion_Tareas.tareas)
-    elif opcion == 2:
-        Gestion_Tareas.ver_tareas(Gestion_Tareas.tareas)
-    elif opcion == 3:
-        Gestion_Tareas.marcar_completada(Gestion_Tareas.tareas)
-    elif opcion == 4:
-        Gestion_Tareas.eliminar_tarea(Gestion_Tareas.tareas)
-    elif opcion == 5:
-        break
