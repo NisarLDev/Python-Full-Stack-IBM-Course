@@ -2,7 +2,7 @@
 
 # Bucle principal
 while True:
-    print("\n***** --- Gestor de tareas de ConsoleTec --- ******\n ")
+    print("\n***** --- Gestor de tareas Python Full Stack Proyecto Final IBM 2024 --- ******\n ")
     print("1. Añadir tarea")
     print("2. Ver tareas")
     print("3. Marcar tarea como completada")
@@ -34,4 +34,20 @@ while True:
 
         case _:
 			print("Esta opción no es válida. Inténtelo de nuevo.")
-            pass
+            break
+	class Tareas:
+		# Lista de tareas
+		tareas = []
+
+		# Funciones del programa
+		def agregar_tarea(lista):
+			pass
+
+		def ver_tareas(lista):
+			pass
+
+		def tarea_completada(lista):
+			pass
+
+		def eliminar_tarea(lista):
+			pass
