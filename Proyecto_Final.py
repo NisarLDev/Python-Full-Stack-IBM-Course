@@ -20,13 +20,13 @@ while True:
             Gestion_Tareas.agregar_tarea(funciones.tareas)
 
         case "2":
-            Gestion_Tareas.ver_tareas(funciones.tareas)
+            Gestion_Tareas.ver_tareas(Gestion_Tareas.tareas)
 
         case "3":
-            Gestion_Tareas.tarea_completada(funciones.tareas)
+            Gestion_Tareas.tarea_completada(Gestion_Tareas.tareas)
 
         case "4":
-            Gestion_Tareas.eliminar_tarea(funciones.tareas)
+            Gestion_Tareas.eliminar_tarea(Gestion_Tareas.tareas)
 
         case "5":
 		print("Saliendo... Gracias por haber usado el programa")
