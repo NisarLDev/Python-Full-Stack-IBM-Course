@@ -94,4 +94,23 @@ while True:
         		print("Opción inválida.")
 
 		def eliminar_tarea(lista):
-			pass
+
+    		if lista:
+	        #Llamamos a la función ver_tareas()
+        	ver_tareas(lista)
+
+        	# Entrada para que el usuario introduzca una tarea
+        	tarea = int(input("Introduzca el número de la tarea a eliminar: "))
+
+        	# Opción inválida si la tarea no está en el rango de la lista
+        	if tarea <= 0 or tarea > len(lista):
+            	print("Opción inválida.")
+
+        	# Si la opción es válida se elimina la tarea
+        	else:
+            	del lista[tarea - 1]
+            	print("Se eliminó la tarea.")
+
+    		# Si la lista está vacía se avisa de ello
+    		else:
+        		print("No hay tareas.")
