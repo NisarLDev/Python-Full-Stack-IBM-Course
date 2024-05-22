@@ -15,18 +15,18 @@ while True:
     print("\n")
 
     # Menú de opciones
-    match opcion:
+       match opcion:
         case "1":
-            pass
+            Gestion_Tareas.agregar_tarea(funciones.tareas)
 
         case "2":
-			pass
+            Gestion_Tareas.ver_tareas(funciones.tareas)
 
         case "3":
-			pass
+            Gestion_Tareas.tarea_completada(funciones.tareas)
 
         case "4":
-			pass
+            Gestion_Tareas.eliminar_tarea(funciones.tareas)
 
         case "5":
 		print("Saliendo... Gracias por haber usado el programa")
@@ -42,10 +42,35 @@ while True:
 
 		# Funciones del programa
 		def agregar_tarea(lista):
-			pass
+    		# Entrada para la tarea
+    		tarea = input("Introduzca la descripción de la tarea: ")
+
+    		# Añadir la tarea al final de la lista
+    		lista.append(tarea)
+
+    		# Informe de tarea añadida
+    		print("\nLa tarea se añadió a la lista de tareas pendientes.\n")
+
+    		# Imprime la tarea añadida
+    		print("La tarea añadadida es esta:")
+
+    		print(f"{tarea}")
+
+    		# Informa del número de tarea
+    		print(f"La tarea se almacenó en la posición {len(lista)}\n")
 
 		def ver_tareas(lista):
-			pass
+    		# Condicional que evalúe si algo está en la lista
+    		# Si hay algo en la lista se presenta
+    		if lista:
+        		for indice, tarea in enumerate(lista):
+            		print(f"{indice + 1}. {tarea}")
+    		# Si la lista está vacía avisa de ello
+    		else:
+        		print("No hay tareas pendientes.")
+
+    		# Mensaje del final del listado
+    		print("--- FIN DEL LISTADO DE TAREAS ---")
 
 		def tarea_completada(lista):
 			pass
