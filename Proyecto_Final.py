@@ -1,60 +1,62 @@
 # Clase creada Gestion_Tareas para la parte del modelo del Modelo Vista Controlador (MVC). Para CRUD.
-class Gestion_Tareas:
+class Gestion_Tareas():
+	    def __init__(self, agregar_tarea, ver_tareas):
 		# Lista de tareas
 		tareas = []
 
 		# Funciones del programa
-def agregar_tarea(lista):
-    # Entrada para la tarea
-    tarea = input("Introduzca la descripción de la tarea: ")
+		#agregar_tarea = Gestion_Tareas()
+		def agregar_tarea(lista):
+			# Entrada para la tarea
+			tarea = input("Introduzca la descripción de la tarea: ")
 
-    # Añadir la tarea al final de la lista
-    list.append(tarea)
+			# Añadir la tarea al final de la lista
+			list.append(tarea)
 
-    # Informe de tarea añadida
-    print("\nLa tarea se añadió a la lista de tareas pendientes.\n")
+			# Informe de tarea añadida
+			print("\nLa tarea se añadió a la lista de tareas pendientes.\n")
 
-    # Imprime la tarea añadida
-    print("La tarea añadadida es esta:")
+			# Imprime la tarea añadida
+			print("La tarea añadadida es esta:")
 
-    print(f"{tarea}")
+			print(f"{tarea}")
 
-    # Informa del número de tarea
-    print(f"La tarea se almacenó en la posición {len(list)}\n")
+			# Informa del número de tarea
+			print(f"La tarea se almacenó en la posición {len(lista)}\n")
 
-def ver_tareas(list):
-    # Condicional que evalúe si algo está en la lista
-    # Si hay algo en la lista se presenta
-    if lista:
-        for indice, tarea in enumerate(list):
-            print(f"{indice + 1}. {tarea}")
-    # Si la lista está vacía avisa de ello
-    else:
-        print("No hay tareas pendientes.")
+		def ver_tareas(list):
+			# Condicional que evalúe si algo está en la lista
+			# Si hay algo en la lista se presenta
+			if lista:
+				for indice, tarea in enumerate(list):
+					print(f"{indice + 1}. {tarea}")
+			# Si la lista está vacía avisa de ello
+			else:
+				print("No hay tareas pendientes.")
 
-    # Mensaje del final del listado
-    print("--- FIN DEL LISTADO DE TAREAS ---")
+			# Mensaje del final del listado
+			print("--- FIN DEL LISTADO DE TAREAS ---")
 
-def tarea_completada(lista):
-    # Llamamos a la función ver_tareas()
-    ver_tareas(list)
+		def tarea_completada(lista):
+			# Llamamos a la función ver_tareas()
+			ver_tareas(list)
 
-    # Entrada para que el usuario introduzca una tarea
-    completada = int(input("Introduzca el número de la tarea a marcar como completada: "))
+			# Entrada para que el usuario introduzca una tarea
+			completada = int(input("Introduzca el número de la tarea a marcar como completada: "))
 
-    # Condicional para marcar tareas como completadas
-    if completada > 0 and completada <= len(list):
-        # Condicional para evaluar si la tarea ya estaba completada
-        # Si la tarea ya está en la lista...
-        if "(Completada)" in lista[completada - 1]:
-            print("La tarea ya estaba marcada como completada.")
-        # En cambio, si no está...
-        else:
-            list[completada - 1] = "(Completada) " + list[completada - 1]
-            print("Se marcó la tarea como completada.")
-    # Avisar si la opción elegida es inválida
-    else:
-        print("Opción inválida.")
+			# Condicional para marcar tareas como completadas
+			if completada > 0 and completada <= len(list):
+				# Condicional para evaluar si la tarea ya estaba completada
+				# Si la tarea ya está en la lista...
+				if "(Completada)" in lista[completada - 1]:
+					print("La tarea ya estaba marcada como completada.")
+				# En cambio, si no está...
+				else:
+					list[completada - 1] = "(Completada) " + list[completada - 1]
+					print("Se marcó la tarea como completada.")
+			# Avisar si la opción elegida es inválida
+			else:
+				print("Opción inválida.")
 
 def eliminar_tarea(lista):
 
