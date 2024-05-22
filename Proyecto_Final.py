@@ -82,8 +82,6 @@ def eliminar_tarea(lista):
 
 
 
-
-
 # Bucle principal
 while True:
     print("\n***** --- Gestor de tareas Python Full Stack Proyecto Final IBM 2024 --- ******\n ")
