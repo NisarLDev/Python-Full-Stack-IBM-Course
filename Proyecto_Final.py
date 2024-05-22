@@ -18,7 +18,7 @@ while True:
             pass
 
         case "2":
-	pass
+			pass
 
         case "3":
 			pass
@@ -31,4 +31,5 @@ while True:
 			pass
 
         case _:
+			print("Esta opción no es válida. Inténtelo de nuevo.")
             pass
