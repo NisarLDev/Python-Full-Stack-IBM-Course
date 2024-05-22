@@ -73,7 +73,25 @@ while True:
     		print("--- FIN DEL LISTADO DE TAREAS ---")
 
 		def tarea_completada(lista):
-			pass
+    		# Llamamos a la función ver_tareas()
+    		ver_tareas(lista)
+
+    		# Entrada para que el usuario introduzca una tarea
+    		completada = int(input("Introduzca el número de la tarea a marcar como completada: "))
+
+    		# Condicional para marcar tareas como completadas
+    		if completada > 0 and completada <= len(lista):
+        	# Condicional para evaluar si la tarea ya estaba completada
+        	# Si la tarea ya está en la lista...
+	        if "(Completada)" in lista[completada - 1]:
+            	print("La tarea ya estaba marcada como completada.")
+        	# En cambio, si no está...
+        	else:
+            	lista[completada - 1] = "(Completada) " + lista[completada - 1]
+            	print("Se marcó la tarea como completada.")
+    		# Avisar si la opción elegida es inválida
+    		else:
+        		print("Opción inválida.")
 
 		def eliminar_tarea(lista):
 			pass
