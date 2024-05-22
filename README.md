@@ -37,11 +37,6 @@ https://www.codificandobits.com/curso/python-nivel-avanzado/12-app-productividad
 GitHub - ShahandFahad/IBM-full-stack-software-developer: 🚀 Pursuing excellence in software development with the IBM Full Stack Software Developer program. 🌐 Master the art of end-to-end application development, cloud-native technologies, and earn ACE® recommended college credits.
 https://github.com/ShahandFahad/IBM-full-stack-software-developer
 
-Startpage Resultados de la búsqueda
-https://www.startpage.com/sp/search
-
-Startpage Resultados de la búsqueda
-https://www.startpage.com/sp/search
 
 CRUD PYTHON con BD aplicando MVC. Explicado Fácilmente - YouTube
 https://www.youtube.com/watch?v=PmnIvR066WA
