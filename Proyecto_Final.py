@@ -1,3 +1,5 @@
+
+
 # Bucle principal
 while True:
     print("\n***** --- Gestor de tareas de ConsoleTec --- ******\n ")
@@ -28,7 +30,7 @@ while True:
 
         case "5":
 		print("Saliendo... Gracias por haber usado el programa")
-			pass
+			break
 
         case _:
 			print("Esta opción no es válida. Inténtelo de nuevo.")
