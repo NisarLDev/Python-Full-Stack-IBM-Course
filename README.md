@@ -68,54 +68,6 @@ https://kinsta.com/es/blog/programacion-orientada-objetos-python/
 
 https://j2logo.com/python/tutorial/programacion-orientada-a-objetos/
 
-Tricia Helfer - FilmAffinity
-https://www.filmaffinity.com/es/name-movies.php?name-id=597167172&role-cat=cas&orderby=date-desc&v=list&p=1
-
-Barbara Rush - FilmAffinity
-https://www.filmaffinity.com/es/name-movies.php?name-id=112404629&role-cat=cas&orderby=date-desc&v=list&p=1
-
-Vera Miles - FilmAffinity
-https://www.filmaffinity.com/es/name-movies.php?name-id=482852803&role-cat=cas&orderby=date-desc&v=list&p=1
-
-Jeanne Moreau - FilmAffinity
-https://www.filmaffinity.com/es/name-movies.php?name-id=519239902&role-cat=none&orderby=date-desc&v=list&p=3
-
-Una chica en el desván (1953) - FilmAffinity
-https://www.filmaffinity.com/es/film258384.html
-
-Léna Skerla - FilmAffinity
-https://www.filmaffinity.com/es/name.php?name-id=345193442
-
-Silvana Mangano - FilmAffinity
-https://www.filmaffinity.com/es/name-movies.php?name-id=813048571&role-cat=cas&orderby=date-desc&v=list&p=1
-
-Barbara Bel Geddes - FilmAffinity
-https://www.filmaffinity.com/es/name.php?name-id=962869924
-
-Carla Gravina - FilmAffinity
-https://www.filmaffinity.com/es/name.php?name-id=572942803
-
-OK social network. Communication with friends on OK. Your meeting place with classmates
-https://ok.ru/video
-
-OK social network. Communication with friends on OK. Your meeting place with classmates
-https://ok.ru/video
-
-OK social network. Communication with friends on OK. Your meeting place with classmates
-https://ok.ru/video
-
-Arroz Amargo-Sub-1949-Silvana Mangano-Vittorio Gassman-Doris Dowling-Raf Vallone-G. De Santis-ITALIA-DRAMA-TCC-4E
-https://ok.ru/video/6311395265208
-
-Жюльетта (Julietta) (1953)
-https://ok.ru/video/6646809037382
-
-1953 - Julietta - Marc Allégret
-https://ok.ru/video/6607902018201
-
-Startpage Resultados de la búsqueda
-https://www.startpage.com/sp/search
-
 Editing Python-Full-Stack-IBM-Course-2024/Proyecto_Final_no_entregado_y_no_funcional.py at main · NisarLDev/Python-Full-Stack-IBM-Course-2024
 https://github.com/NisarLDev/Python-Full-Stack-IBM-Course-2024/edit/main/Proyecto_Final_no_entregado_y_no_funcional.py
 
