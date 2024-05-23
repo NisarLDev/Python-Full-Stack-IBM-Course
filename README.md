@@ -63,3 +63,105 @@ Guía para Principiantes de la Programación Orientada a Objetos (POO) en Python
 https://kinsta.com/es/blog/programacion-orientada-objetos-python/
 
 https://j2logo.com/python/tutorial/programacion-orientada-a-objetos/
+
+Tricia Helfer - FilmAffinity
+https://www.filmaffinity.com/es/name-movies.php?name-id=597167172&role-cat=cas&orderby=date-desc&v=list&p=1
+
+Barbara Rush - FilmAffinity
+https://www.filmaffinity.com/es/name-movies.php?name-id=112404629&role-cat=cas&orderby=date-desc&v=list&p=1
+
+Vera Miles - FilmAffinity
+https://www.filmaffinity.com/es/name-movies.php?name-id=482852803&role-cat=cas&orderby=date-desc&v=list&p=1
+
+Jeanne Moreau - FilmAffinity
+https://www.filmaffinity.com/es/name-movies.php?name-id=519239902&role-cat=none&orderby=date-desc&v=list&p=3
+
+Una chica en el desván (1953) - FilmAffinity
+https://www.filmaffinity.com/es/film258384.html
+
+Léna Skerla - FilmAffinity
+https://www.filmaffinity.com/es/name.php?name-id=345193442
+
+Silvana Mangano - FilmAffinity
+https://www.filmaffinity.com/es/name-movies.php?name-id=813048571&role-cat=cas&orderby=date-desc&v=list&p=1
+
+Barbara Bel Geddes - FilmAffinity
+https://www.filmaffinity.com/es/name.php?name-id=962869924
+
+Carla Gravina - FilmAffinity
+https://www.filmaffinity.com/es/name.php?name-id=572942803
+
+OK social network. Communication with friends on OK. Your meeting place with classmates
+https://ok.ru/video
+
+OK social network. Communication with friends on OK. Your meeting place with classmates
+https://ok.ru/video
+
+OK social network. Communication with friends on OK. Your meeting place with classmates
+https://ok.ru/video
+
+Arroz Amargo-Sub-1949-Silvana Mangano-Vittorio Gassman-Doris Dowling-Raf Vallone-G. De Santis-ITALIA-DRAMA-TCC-4E
+https://ok.ru/video/6311395265208
+
+Жюльетта (Julietta) (1953)
+https://ok.ru/video/6646809037382
+
+1953 - Julietta - Marc Allégret
+https://ok.ru/video/6607902018201
+
+Startpage Resultados de la búsqueda
+https://www.startpage.com/sp/search
+
+Editing Python-Full-Stack-IBM-Course-2024/Proyecto_Final_no_entregado_y_no_funcional.py at main · NisarLDev/Python-Full-Stack-IBM-Course-2024
+https://github.com/NisarLDev/Python-Full-Stack-IBM-Course-2024/edit/main/Proyecto_Final_no_entregado_y_no_funcional.py
+
+Startpage Resultados de la búsqueda
+https://www.startpage.com/sp/search
+
+Startpage Resultados de la búsqueda
+https://www.startpage.com/sp/search
+
+Cómo funcionan las clases y objetos en Python. Programación en Castellano.
+https://programacion.net/articulo/como_funcionan_las_clases_y_objetos_en_python_1505
+
+Qué son las clases en Python, para qué sirven y cómo funcionan
+https://blog.hubspot.es/website/clases-python
+
+Programación orientada a objetos con Python (POO) | by diego.coder26 | Medium
+https://medium.com/@diego.coder/programaci%C3%B3n-orientada-a-objetos-con-python-poo-2bc1500fe182
+
+Problema al cargar la página
+https://www.codigopiton.com/variables-de-clase-y-de-instancia-en-python/
+
+9. Clases — documentación de Python - 3.12.3
+https://docs.python.org/es/3/tutorial/classes.html
+
+Programación orientada a objetos (POO) en Python
+https://j2logo.com/python/tutorial/programacion-orientada-a-objetos/
+
+Objetos y Clases - Aprende Python
+https://aprendepython.es/core/modularity/oop/
+
+Clases e instancias | Interactive Chaos
+https://interactivechaos.com/es/manual/tutorial-de-python/clases-e-instancias
+
+task-management · GitHub Topics
+https://github.com/topics/task-management?l=python&o=asc&s=stars
+
+ashot-gimishyan (Ashot Gimishyan)
+https://github.com/ashot-gimishyan
+
+A Task Manager App Built with Python
+https://anvil.works/learn/examples/task-manager-app
+
+How to build a project management tool in Python for businesses
+https://dataheadhunters.com/academy/how-to-build-a-project-management-tool-in-python-for-businesses/
+
+Task_Management_System/GUI.py at master · usman010803/Task_Management_System
+https://github.com/usman010803/Task_Management_System/blob/master/GUI.py
+
+Personalized Task Manager in Python - GeeksforGeeks
+https://www.geeksforgeeks.org/personalized-task-manager-in-python/
+
+“Boost Your Productivity: Building a Task Manager with Python” | by Sudeep Lamichhane | Medium
+https://medium.com/@sudeeplamichhane18/boost-your-productivity-building-a-task-manager-with-python-38a9f7f16930
