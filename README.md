@@ -2,7 +2,6 @@
 
 Finished course.
 
-
 ### Final project memory consumption
 10 Megas of memory.
 
