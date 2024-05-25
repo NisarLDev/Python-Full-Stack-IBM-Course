@@ -15,7 +15,6 @@ Finished course.
 
 3 - https://www.cartagena99.com/recursos/alumnos/apuntes/AED_fifo_lifo.pdf
 
-
 [ PYTHON ] Crea un gestor de tareas en la consola - YouTube
 https://www.youtube.com/watch?v=q2M_ZgvZ2EE
 
